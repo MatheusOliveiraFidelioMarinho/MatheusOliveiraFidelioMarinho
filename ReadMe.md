@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Atualmente estou engajado em projetos de pesquisa espacial;<br>👯 Estou buscando colaborar em iniciativas de desenvolvimento de software;<br>🤝 Estou procurando experiência através de estagio/trabalho;<br>🌱 Estou atualmente cursando Engenharia de Software(UCB);<br>💬 Me pergunte sobre qualquer coisa que eu(chatGPT)saberá te responder;<br>⚡ Curiosidade: Alguns modelos de inteligência artificial podem escrever músicas, criar obras de arte e até mesmo escrever textos que são quase indistinguíveis daqueles escritos por humanos.
 
 
