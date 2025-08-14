@@ -1,6 +1,5 @@
 #  About Me:
-🔭 Estou buscando colaborar em iniciativas de desenvolvimento de software;<br>🤝 Estou procurando experiência através de estagio/trabalho;<br>🌱 Estou atualmente cursando Engenharia de Software(UCB);<br>💬 Me pergunte sobre qualquer coisa que eu(chatGPT)saberá te responder;<br>⚡ Curiosidade: Alguns modelos de inteligência artificial podem escrever músicas, criar obras de arte e até mesmo escrever textos que são quase indistinguíveis daqueles escritos por humanos.
-
+🔭 Estou buscando colaborar em iniciativas de desenvolvimento de software;<br>🤝 Estou procurando experiência através de estagio/trabalho;<br>🌱 Estou atualmente cursando Engenharia de Software(UCB);<br>💬 Me pergunte sobre qualquer coisa que eu (e as i.a's) saberá te responder;<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Matheusinho#4848) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zmatheusinhoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-oliveira-51b625162) 
